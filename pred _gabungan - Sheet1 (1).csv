@@ -1,4 +1,4 @@
-Waktu,SimpleRNN dengan Variabel,LSTM dengan Variabel,Random Forest dengan Variabel,XGBoost dengan Variabel,SimpleRNN,LSTM,Random Forest,XGBoost,
+Time,SimpleRNN with Variable,LSTM with Variable,Random Forest with Variable,XGBoost with Variable,SimpleRNN,LSTM,Random Forest,XGBoost,
 31-03-2000,325958.6,325958.6,325958.6,325958.6,325958.6,325958.6,325958.6,325958.6,
 30-06-2000,336967.1,336967.1,336967.1,336967.1,336967.1,336967.1,336967.1,336967.1,
 30-09-2000,360701.6,360701.6,360701.6,360701.6,360701.6,360701.6,360701.6,360701.6,
